@@ -4,11 +4,11 @@ layout: workshop      # DON'T CHANGE THIS.
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
 venue: "Competence Center Digital Research (zedif) Jena"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
-address: "Linuxpool 1 (Raum 3413), Ernst-Abbe-Platz 2, Jena"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
+address: "Computerpool (room E024/025), Helmholtzweg 4, Jena"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "de"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
-latitude: "50.927850"        # decimal latitude of workshop venue (use https://www.latlong.net/)
-longitude: "11.582490"       # decimal longitude of the workshop venue (use https://www.latlong.net)
+latitude: "50.9339427"        # decimal latitude of workshop venue (use https://www.latlong.net/)
+longitude: "11.5823769"       # decimal longitude of the workshop venue (use https://www.latlong.net)
 humandate: "Nov 06-09, 2023"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00 am -1:00 pm CET"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
 startdate: 2023-11-06      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
